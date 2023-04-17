@@ -1,0 +1,8 @@
+torch
+torchvision
+pytorch-lightning
+pyside6
+numpy
+scipy
+scikit-image
+nrrdu @ git+https://github.com/nickeopti/nrrd-uncompressed.git
